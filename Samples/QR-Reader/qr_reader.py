@@ -1,3 +1,5 @@
+import qrtools
+
 # Python 2.x program to generate QR code 
 from qrtools 
 import QR 
